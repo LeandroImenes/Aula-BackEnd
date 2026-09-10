@@ -1,5 +1,19 @@
 # Aula BackEnd
 
+|Tecnologias|Descrição|
+|--|--|
+|[Miro](https://miro.com/)|Utilizado para o esquema conceitual|
+|[Vscode](https://code.visualstudio.com/)|Utilizado para fazer os exemplos de programas|
+
+<br>
+
+|Contribuidores|Perfil|
+|--|--|
+|Matheus Dorigan Paiato|<a href="https://github.com/matheuszinpaiato-maker">Github|
+|Leandro Imenes Oliveira|<a href="https://github.com/LeandroImenes">Github|
+
+<br>
+
 ## Esquema de exemplo
 <img src="introducao.png">
 <img src="variaveis.png">
